@@ -1,3 +1,6 @@
 IMG
 mnist
 model
+*.png
+*.h5
+__pycache__
